@@ -25,7 +25,7 @@ SECRET_KEY = '(0s5nhxcs7#+v5dfhge(7%t_4$@&x#j4ip^g#5@6trn_qlz*8f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['wyolo.pythonanywhere.com]
 
 
 # Application definition
